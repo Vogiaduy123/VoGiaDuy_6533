@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quản lý sản phẩm và danh mục
 
 ## Cài đặt
@@ -92,3 +93,6 @@ npm start
 - POST /roles - Tạo role mới (admin)
 - PUT /roles/:id - Cập nhật role (admin)
 - DELETE /roles/:id - Xóa role (admin)
+=======
+# VoGiaDuy_6533
+>>>>>>> c7d8d92fd6ee5dca3197a14c664de339a142ccc6
